@@ -1,0 +1,3 @@
+build/
+secrets.hpp
+.vscode/c_cpp_properties.json

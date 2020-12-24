@@ -1,0 +1,7 @@
+{
+    "port": "/dev/ttyACM0",
+    "board": "arduino:samd:mkrwifi1010",
+    "programmer": "AVR ISP",
+    "sketch": "./src/caller.ino",
+    "output": "./build"
+}
